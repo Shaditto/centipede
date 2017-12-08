@@ -1,0 +1,77 @@
+	Wave 1
+CENTIPEDE::Length		0
+CENTIPEDE::Speed		50
+CENTIPEDE::Heads		1
+FLEA::Present(False)		1
+FLEA::Trigger			777777
+SCORPION::Present(False)	1
+SCORPION::Frequency		777777
+SCORPION::Speed			50
+SPIDER::Present(False)		1
+SPIDER::Frequency		777777
+SPIDER::Speed			0
+
+	Wave 2
+CENTIPEDE::Length		2
+CENTIPEDE::Speed		50
+CENTIPEDE::Heads		1
+FLEA::Present(False)		1
+FLEA::Trigger			5
+SCORPION::Present(False)	1 
+SCORPION::Frequency		15
+SCORPION::Speed			100
+SPIDER::Present(False)		1
+SPIDER::Frequency		12
+SPIDER::Speed			0
+
+	Wave 3
+CENTIPEDE::Length		5
+CENTIPEDE::Speed		50
+CENTIPEDE::Heads		1
+FLEA::Present(False)		1
+FLEA::Trigger			4
+SCORPION::Present(False)	1 
+SCORPION::Frequency		13
+SCORPION::Speed			100
+SPIDER::Present(False)		1
+SPIDER::Frequency		15
+SPIDER::Speed			0
+
+	Wave 4
+CENTIPEDE::Length		8
+CENTIPEDE::Speed		50
+CENTIPEDE::Heads		0
+FLEA::Present(False)		1
+FLEA::Trigger			3
+SCORPION::Present(False)	1 
+SCORPION::Frequency		10
+SCORPION::Speed			100
+SPIDER::Present(False)		1
+SPIDER::Frequency		12
+SPIDER::Speed			0
+
+Wave 4
+CENTIPEDE::Length		10
+CENTIPEDE::Speed		50
+CENTIPEDE::Heads		0
+FLEA::Present(False)		1
+FLEA::Trigger			3
+SCORPION::Present(False)	1 
+SCORPION::Frequency		8
+SCORPION::Speed			100
+SPIDER::Present(False)		1
+SPIDER::Frequency		10
+SPIDER::Speed			0
+
+Wave 4
+CENTIPEDE::Length		12
+CENTIPEDE::Speed		50
+CENTIPEDE::Heads		0
+FLEA::Present(False)		1
+FLEA::Trigger			3
+SCORPION::Present(False)	1 
+SCORPION::Frequency		5
+SCORPION::Speed			100
+SPIDER::Present(False)		1
+SPIDER::Frequency		7
+SPIDER::Speed			0
